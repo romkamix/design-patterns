@@ -1,0 +1,19 @@
+{
+  "name": "romkamix/design-patterns",
+  "type": "project",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "romkamix",
+      "email": "romkamix@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Romkamix\\": "src/"
+    }
+  },
+  "require": {
+    "php": ">=7.2"
+  }
+}
